@@ -1,0 +1,17 @@
+warcio
+requests
+beautifulsoup4
+face_recognition
+opencv-python
+dlib
+spacy
+transformers
+streamlit
+SQLAlchemy
+keybert
+textstat
+nltk
+pillow
+langdetect
+torch
+scikit-learn
